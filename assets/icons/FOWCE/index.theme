@@ -1,0 +1,18 @@
+[Icon Theme]
+Name=FOWCE
+Comment=FOWCE Icon Theme
+Inherits=default
+Directories=16x16,24x24,32x32,48x48
+
+[16x16]
+Size=16
+
+[24x24]
+Size=24
+
+[32x32]
+Size=32
+
+[48x48]
+Size=48
+

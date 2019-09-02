@@ -1,0 +1,100 @@
+<RCC>
+    <qresource prefix="/icons/FOWCE">
+        <file alias="index.theme">assets/icons/FOWCE/index.theme</file>
+        <file alias="16x16/error.png">assets/icons/FOWCE/16x16/error.png</file>
+        <file alias="24x24/error.png">assets/icons/FOWCE/24x24/error.png</file>
+        <file alias="32x32/error.png">assets/icons/FOWCE/32x32/error.png</file>
+        <file alias="48x48/error.png">assets/icons/FOWCE/48x48/error.png</file>
+        <file alias="16x16/missing.png">assets/icons/FOWCE/16x16/missing.png</file>
+        <file alias="24x24/missing.png">assets/icons/FOWCE/24x24/missing.png</file>
+        <file alias="32x32/missing.png">assets/icons/FOWCE/32x32/missing.png</file>
+        <file alias="48x48/missing.png">assets/icons/FOWCE/48x48/missing.png</file>
+        <file alias="16x16/attribute-light.png">assets/icons/FOWCE/16x16/attribute-light.png</file>
+        <file alias="24x24/attribute-light.png">assets/icons/FOWCE/24x24/attribute-light.png</file>
+        <file alias="32x32/attribute-light.png">assets/icons/FOWCE/32x32/attribute-light.png</file>
+        <file alias="48x48/attribute-light.png">assets/icons/FOWCE/48x48/attribute-light.png</file>
+        <file alias="16x16/attribute-fire.png">assets/icons/FOWCE/16x16/attribute-fire.png</file>
+        <file alias="24x24/attribute-fire.png">assets/icons/FOWCE/24x24/attribute-fire.png</file>
+        <file alias="32x32/attribute-fire.png">assets/icons/FOWCE/32x32/attribute-fire.png</file>
+        <file alias="48x48/attribute-fire.png">assets/icons/FOWCE/48x48/attribute-fire.png</file>
+        <file alias="16x16/attribute-water.png">assets/icons/FOWCE/16x16/attribute-water.png</file>
+        <file alias="24x24/attribute-water.png">assets/icons/FOWCE/24x24/attribute-water.png</file>
+        <file alias="32x32/attribute-water.png">assets/icons/FOWCE/32x32/attribute-water.png</file>
+        <file alias="48x48/attribute-water.png">assets/icons/FOWCE/48x48/attribute-water.png</file>
+        <file alias="16x16/attribute-wind.png">assets/icons/FOWCE/16x16/attribute-wind.png</file>
+        <file alias="24x24/attribute-wind.png">assets/icons/FOWCE/24x24/attribute-wind.png</file>
+        <file alias="32x32/attribute-wind.png">assets/icons/FOWCE/32x32/attribute-wind.png</file>
+        <file alias="48x48/attribute-wind.png">assets/icons/FOWCE/48x48/attribute-wind.png</file>
+        <file alias="16x16/attribute-darkness.png">assets/icons/FOWCE/16x16/attribute-darkness.png</file>
+        <file alias="24x24/attribute-darkness.png">assets/icons/FOWCE/24x24/attribute-darkness.png</file>
+        <file alias="32x32/attribute-darkness.png">assets/icons/FOWCE/32x32/attribute-darkness.png</file>
+        <file alias="48x48/attribute-darkness.png">assets/icons/FOWCE/48x48/attribute-darkness.png</file>
+        <file alias="16x16/attribute-void.png">assets/icons/FOWCE/16x16/attribute-void.png</file>
+        <file alias="24x24/attribute-void.png">assets/icons/FOWCE/24x24/attribute-void.png</file>
+        <file alias="32x32/attribute-void.png">assets/icons/FOWCE/32x32/attribute-void.png</file>
+        <file alias="48x48/attribute-void.png">assets/icons/FOWCE/48x48/attribute-void.png</file>
+        <file alias="16x16/attribute-time.png">assets/icons/FOWCE/16x16/attribute-time.png</file>
+        <file alias="24x24/attribute-time.png">assets/icons/FOWCE/24x24/attribute-time.png</file>
+        <file alias="32x32/attribute-time.png">assets/icons/FOWCE/32x32/attribute-time.png</file>
+        <file alias="48x48/attribute-time.png">assets/icons/FOWCE/48x48/attribute-time.png</file>
+        <file alias="16x16/attribute-moon.png">assets/icons/FOWCE/16x16/attribute-moon.png</file>
+        <file alias="24x24/attribute-moon.png">assets/icons/FOWCE/24x24/attribute-moon.png</file>
+        <file alias="32x32/attribute-moon.png">assets/icons/FOWCE/32x32/attribute-moon.png</file>
+        <file alias="48x48/attribute-moon.png">assets/icons/FOWCE/48x48/attribute-moon.png</file>
+
+        <file alias="16x16/flag-us-uk.png">assets/icons/FOWCE/16x16/flag-us-uk.png</file>
+        <file alias="24x24/flag-us-uk.png">assets/icons/FOWCE/24x24/flag-us-uk.png</file>
+        <file alias="32x32/flag-us-uk.png">assets/icons/FOWCE/32x32/flag-us-uk.png</file>
+        <file alias="48x48/flag-us-uk.png">assets/icons/FOWCE/48x48/flag-us-uk.png</file>
+
+        <file alias="16x16/flag-be-fr.png">assets/icons/FOWCE/16x16/flag-be-fr.png</file>
+        <file alias="24x24/flag-be-fr.png">assets/icons/FOWCE/24x24/flag-be-fr.png</file>
+        <file alias="32x32/flag-be-fr.png">assets/icons/FOWCE/32x32/flag-be-fr.png</file>
+        <file alias="48x48/flag-be-fr.png">assets/icons/FOWCE/48x48/flag-be-fr.png</file>
+
+        <file alias="16x16/flag-au-ch-de.png">assets/icons/FOWCE/16x16/flag-au-ch-de.png</file>
+        <file alias="24x24/flag-au-ch-de.png">assets/icons/FOWCE/24x24/flag-au-ch-de.png</file>
+        <file alias="32x32/flag-au-ch-de.png">assets/icons/FOWCE/32x32/flag-au-ch-de.png</file>
+        <file alias="48x48/flag-au-ch-de.png">assets/icons/FOWCE/48x48/flag-au-ch-de.png</file>
+
+        <file alias="16x16/flag-italy.png">assets/icons/FOWCE/16x16/flag-italy.png</file>
+        <file alias="24x24/flag-italy.png">assets/icons/FOWCE/24x24/flag-italy.png</file>
+        <file alias="32x32/flag-italy.png">assets/icons/FOWCE/32x32/flag-italy.png</file>
+        <file alias="48x48/flag-italy.png">assets/icons/FOWCE/48x48/flag-italy.png</file>
+
+        <file alias="16x16/flag-spain.png">assets/icons/FOWCE/16x16/flag-spain.png</file>
+        <file alias="24x24/flag-spain.png">assets/icons/FOWCE/24x24/flag-spain.png</file>
+        <file alias="32x32/flag-spain.png">assets/icons/FOWCE/32x32/flag-spain.png</file>
+        <file alias="48x48/flag-spain.png">assets/icons/FOWCE/48x48/flag-spain.png</file>
+
+        <file alias="16x16/flag-japan.png">assets/icons/FOWCE/16x16/flag-japan.png</file>
+        <file alias="24x24/flag-japan.png">assets/icons/FOWCE/24x24/flag-japan.png</file>
+        <file alias="32x32/flag-japan.png">assets/icons/FOWCE/32x32/flag-japan.png</file>
+        <file alias="48x48/flag-japan.png">assets/icons/FOWCE/48x48/flag-japan.png</file>
+
+        <file alias="16x16/flag-china.png">assets/icons/FOWCE/16x16/flag-china.png</file>
+        <file alias="24x24/flag-china.png">assets/icons/FOWCE/24x24/flag-china.png</file>
+        <file alias="32x32/flag-china.png">assets/icons/FOWCE/32x32/flag-china.png</file>
+        <file alias="48x48/flag-china.png">assets/icons/FOWCE/48x48/flag-china.png</file>
+
+        <file alias="16x16/arrow-up.png">assets/icons/FOWCE/16x16/arrow-up.png</file>
+        <file alias="24x24/arrow-up.png">assets/icons/FOWCE/24x24/arrow-up.png</file>
+        <file alias="32x32/arrow-up.png">assets/icons/FOWCE/32x32/arrow-up.png</file>
+        <file alias="48x48/arrow-up.png">assets/icons/FOWCE/48x48/arrow-up.png</file>
+
+        <file alias="16x16/arrow-down.png">assets/icons/FOWCE/16x16/arrow-down.png</file>
+        <file alias="24x24/arrow-down.png">assets/icons/FOWCE/24x24/arrow-down.png</file>
+        <file alias="32x32/arrow-down.png">assets/icons/FOWCE/32x32/arrow-down.png</file>
+        <file alias="48x48/arrow-down.png">assets/icons/FOWCE/48x48/arrow-down.png</file>
+
+        <file alias="16x16/plus.png">assets/icons/FOWCE/16x16/plus.png</file>
+        <file alias="24x24/plus.png">assets/icons/FOWCE/24x24/plus.png</file>
+        <file alias="32x32/plus.png">assets/icons/FOWCE/32x32/plus.png</file>
+        <file alias="48x48/plus.png">assets/icons/FOWCE/48x48/plus.png</file>
+
+        <file alias="16x16/minus.png">assets/icons/FOWCE/16x16/minus.png</file>
+        <file alias="24x24/minus.png">assets/icons/FOWCE/24x24/minus.png</file>
+        <file alias="32x32/minus.png">assets/icons/FOWCE/32x32/minus.png</file>
+        <file alias="48x48/minus.png">assets/icons/FOWCE/48x48/minus.png</file>
+    </qresource>
+</RCC>

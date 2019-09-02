@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="flag-china.svg"
+   inkscape:export-filename="C:\Users\Pro\Documents\Qt\FOWCE\assets\icons\FOWCE\16x16\flag-china.png"
+   inkscape:export-xdpi="6"
+   inkscape:export-ydpi="6"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="966"
+     id="namedview19"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:zoom="1.0999439"
+     inkscape:cx="65.707931"
+     inkscape:cy="116.2336"
+     inkscape:window-x="-8"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,256"
+       id="guide831"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="256,0"
+       orientation="-256,0"
+       id="guide833"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="256,256"
+       orientation="0,-256"
+       id="guide835"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="0,256"
+       orientation="256,0"
+       id="guide837"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <path
+       id="s"
+       d="M 0,-1 0.587785,0.809017 -0.951057,-0.309017 H 0.951057 L -0.587785,0.809017 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffde00" />
+  </defs>
+  <rect
+     width="256"
+     height="170.66667"
+     id="rect5"
+     x="0"
+     y="42.666668"
+     style="fill:#de2910;stroke-width:8.53333378" />
+  <use
+     xlink:href="#s"
+     transform="matrix(25.6,0,0,25.6,42.666667,85.333333)"
+     id="use7"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#s"
+     transform="matrix(7.8528641,3.339207,-3.339207,7.8528641,85.333339,59.733334)"
+     id="use9"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#s"
+     transform="matrix(5.9416746,6.1248903,-6.1248903,5.9416746,102.40001,76.800001)"
+     id="use11"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#s"
+     transform="matrix(2.9262126,8.0159253,-8.0159253,2.9262126,102.40003,102.40001)"
+     id="use13"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#s"
+     transform="matrix(7.9845697,3.0107184,-3.0107184,7.9845697,85.333332,119.46666)"
+     id="use15"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
+</svg>

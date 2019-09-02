@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/card_decoration">
+        <file alias="border-corner-standard.png">assets/card_decoration/border-corner-standard.png</file>
+        <file alias="border-corner-rare.png">assets/card_decoration/border-corner-rare.png</file>
+        <file alias="border-corner-superrare.png">assets/card_decoration/border-corner-superrare.png</file>
+        <file alias="border-corner-ruler.png">assets/card_decoration/border-corner-ruler.png</file>
+        <file alias="border-horizontal-standard.png">assets/card_decoration/border-horizontal-standard.png</file>
+        <file alias="border-horizontal-superrare.png">assets/card_decoration/border-horizontal-superrare.png</file>
+        <file alias="border-vertical-standard.png">assets/card_decoration/border-vertical-standard.png</file>
+        <file alias="border-vertical-superrare.png">assets/card_decoration/border-vertical-superrare.png</file>
+        <file alias="border-vertical-superrare-diamond.png">assets/card_decoration/border-vertical-superrare-diamond.png</file>
+
+        <file alias="cost-wheel-standard.png">assets/card_decoration/cost-wheel-standard.png</file>
+        <file alias="cost-wheel-standard-quickcast.png">assets/card_decoration/cost-wheel-standard-quickcast.png</file>
+        <file alias="cost-wheel-superrare.png">assets/card_decoration/cost-wheel-superrare.png</file>
+        <file alias="cost-wheel-superrare-quickcast.png">assets/card_decoration/cost-wheel-superrare-quickcast.png</file>
+
+        <file alias="footer-box-standard-left.png">assets/card_decoration/footer-box-standard-left.png</file>
+        <file alias="footer-box-standard-mid.png">assets/card_decoration/footer-box-standard-mid.png</file>
+        <file alias="footer-box-superrare-left.png">assets/card_decoration/footer-box-superrare-left.png</file>
+        <file alias="footer-box-superrare-mid.png">assets/card_decoration/footer-box-superrare-mid.png</file>
+
+        <file alias="name-box-standard-left.png">assets/card_decoration/name-box-standard-left.png</file>
+        <file alias="name-box-standard-mid.png">assets/card_decoration/name-box-standard-mid.png</file>
+        <file alias="name-box-superrare-left.png">assets/card_decoration/name-box-superrare-left.png</file>
+        <file alias="name-box-superrare-mid.png">assets/card_decoration/name-box-superrare-mid.png</file>
+
+        <file alias="stats-box-standard.png">assets/card_decoration/stats-box-standard.png</file>
+        <file alias="stats-box-standard-edge.png">assets/card_decoration/stats-box-standard-edge.png</file>
+        <file alias="stats-box-superrare.png">assets/card_decoration/stats-box-superrare.png</file>
+        <file alias="stats-box-superrare-diamond.png">assets/card_decoration/stats-box-superrare-diamond.png</file>
+        <file alias="stats-box-superrare-edge.png">assets/card_decoration/stats-box-superrare-edge.png</file>
+        <file alias="stats-box-superrare-edge-diamond.png">assets/card_decoration/stats-box-superrare-edge-diamond.png</file>
+
+        <file alias="dummy.jpg">assets/card_decoration/dummy.jpg</file>
+    </qresource>
+    <qresource prefix="/svg">
+        <file alias="attribute-light.svg">assets/svg/attribute-light.svg</file>
+        <file alias="attribute-fire.svg">assets/svg/attribute-fire.svg</file>
+        <file alias="attribute-water.svg">assets/svg/attribute-water.svg</file>
+        <file alias="attribute-wind.svg">assets/svg/attribute-wind.svg</file>
+        <file alias="attribute-darkness.svg">assets/svg/attribute-darkness.svg</file>
+        <file alias="attribute-void.svg">assets/svg/attribute-void.svg</file>
+        <file alias="attribute-moon.svg">assets/svg/attribute-moon.svg</file>
+        <file alias="attribute-time.svg">assets/svg/attribute-time.svg</file>
+
+        <file alias="symbol-rest.svg">assets/svg/symbol-rest.svg</file>
+        <file alias="symbol-voidcost.svg">assets/svg/symbol-voidcost.svg</file>
+    </qresource>
+</RCC>

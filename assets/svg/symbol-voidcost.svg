@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="voidcost"
+   version="1.1"
+   viewBox="0 0 256 256"
+   height="256"
+   width="256">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient826">
+      <stop
+         id="stop822"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop824"
+         offset="1"
+         style="stop-color:#d3d3d3;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0141225,0,-4.368734)"
+       r="107.29187"
+       fy="130.52539"
+       fx="128"
+       cy="130.52539"
+       cx="128"
+       id="radialGradient830"
+       xlink:href="#linearGradient826" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     r="128"
+     cy="128"
+     cx="128"
+     id="background"
+     style="display:inline;fill:#c9c9c9;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round" />
+  <ellipse
+     ry="108.8071"
+     rx="107.29187"
+     style="display:inline;fill:url(#radialGradient830);fill-opacity:1"
+     id="foreground"
+     cx="128"
+     cy="128" />
+</svg>
