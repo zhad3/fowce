@@ -8,7 +8,7 @@
 #include "langstringlistmodel.h"
 #include "willcostmodel.h"
 #include "dialogs/languagestringeditdialog.h"
-#include "dialogs/multilangtexteditdialog.h"
+//#include "dialogs/multilangtexteditdialog.h"
 #include "dialogs/addcardsidedialog.h"
 #include "dialogs/optionswindow.h"
 #include "widgets/cardsidepushbutton.h"

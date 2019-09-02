@@ -9,7 +9,7 @@
 
 LanguageStringEditDialog::LanguageStringEditDialog(QWidget *parent, const FLanguageModel *languageModel, bool useTextEdit) :
     QDialog(parent),
-    ui(new Ui::LanguageStringEditDialog),
+    ui(new Ui::MultiLangLineEditDialog),
     isInit(false), useTextEdit(useTextEdit)
 {
     if (!languageModel) {

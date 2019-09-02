@@ -8,7 +8,7 @@
 #include "widgets/multilanglineedit.h"
 
 namespace Ui {
-class LanguageStringEditDialog;
+class MultiLangLineEditDialog;
 }
 
 class LanguageStringEditDialog : public QDialog
@@ -32,7 +32,7 @@ public slots:
     void rebuildUI(const FLanguage *language);
 
 private:
-    Ui::LanguageStringEditDialog *ui;
+    Ui::MultiLangLineEditDialog *ui;
 
     const FLanguageModel *m_languageModel;
     QVector<QWidget*> m_inputs;
